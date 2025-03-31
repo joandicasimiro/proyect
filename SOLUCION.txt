@@ -1,0 +1,1 @@
+"Desarrollar una aplicaci¢n que permita a las peque¤as empresas gestionar su inventario de manera eficiente, controlando entradas y salidas de productos, generando alertas cuando los productos est n por agotarse, y generando informes." 
